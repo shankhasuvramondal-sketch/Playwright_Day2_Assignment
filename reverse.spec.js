@@ -8,7 +8,7 @@ function reverseString(value)
     } 
  console.log(reversedString)   
 }
-let value="Iswarya";
+let value="Shankha";
 
 reverseString(value)
 
